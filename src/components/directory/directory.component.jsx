@@ -10,13 +10,15 @@ class Directory extends React.Component {
 			sections: [
 				{
 					title: "hats",
-					imageUrl: "https://i.ibb.co/cvpntL1/hats.png",
+					imageUrl:
+						"https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fwp-content%2Fblogs.dir%2F11%2Ffiles%2F2019%2F03%2Fsupreme-the-north-face-nouvelle-collaboration-printemps-2019-lookbook-bob.jpg?quality=95&w=1170&cbr=1&q=90&fit=max",
 					id: 1,
 					linkUrl: "shop/hats",
 				},
 				{
 					title: "jackets",
-					imageUrl: "https://i.ibb.co/px2tCc3/jackets.png",
+					imageUrl:
+						"https://lh3.googleusercontent.com/proxy/Vp-nRaaaDjVBSC_Ni-iNeZiO8Reed7I3I66Ys1u_FVmUYYpLFrSnbT39_NJVYAHYC39YwlxmJk0I8Asj4fKiPvz2CRjCCFsviJ8eF6vQjH1rJ7R29qWU0By3bL8",
 					id: 2,
 					linkUrl: "shop/jackets",
 				},
@@ -28,14 +30,16 @@ class Directory extends React.Component {
 				},
 				{
 					title: "womens",
-					imageUrl: "https://i.ibb.co/GCCdy8t/womens.png",
+					imageUrl:
+						"https://medias.spotern.com/spots/w640/340/340109-1592641344.jpg",
 					size: "large",
 					id: 4,
 					linkUrl: "shop/womens",
 				},
 				{
 					title: "mens",
-					imageUrl: "https://i.ibb.co/R70vBrQ/men.png",
+					imageUrl:
+						"https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fwp-content%2Fblogs.dir%2F11%2Ffiles%2F2020%2F01%2Fdior-jordan-travis-scott-collection-apparel-photos-sortie-0.jpg?w=960&cbr=1&q=90&fit=max",
 					size: "large",
 					id: 5,
 					linkUrl: "shop/mens",
