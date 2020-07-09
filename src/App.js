@@ -10,7 +10,7 @@ import Header from "./components/header/header.component";
 import "./App.css";
 
 import { auth, createUserProfileDocument } from "./firebase/firebase.utils";
-import { setCurrentUser } from "./redux/user/user.action";
+import { setCurrentUser } from "./redux/user/user.actions";
 
 // les components avant le Switch apparaitront toujours peu importe l'Url
 // Redux: imaginons qu'on veut ajouter l'etat de notre current user dans
